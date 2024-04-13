@@ -12,7 +12,8 @@ To meet the challenge, we intend to demonstrate the AI-first design approach fro
 
 designer and revealing some of the "unknown, unknown" tasks that can only be completed by humans working in a HACT that have not been accessible to date.
 
-![1712990119721](image/DesignChallengeAbstract/1712990119721.png)
+
+<img width="569" alt="Fig1" src="https://github.com/ebasham/FOSSi-AI-Keyword-Challenge/assets/32109775/48dfda8f-6148-4668-bf29-39ccf6794f63">
 
 Most importantly, the approach begins with an assessment of which AI-enabled solutions are available to decrease the time, scope, and cost boundaries dramatically.  As AI tools evolve at an exponential rate, they will become a part of the design process with each new design.  Evaluating the number of ever-evolving genAI tools needed for a certain task is quickly becoming impossible for humans to do efficiently without assistance.  A year ago, synthesizing GDS from 10s of python packages would have been an insanely ambitious goal.  If this is the initial stage in an AFTA, developing genAI tools will be necessary to reduce the impact of implementation level details.  In essence, problems solutions themselves become products.  The success metric will be the successful production of silicon implementing the best of a range of test genAI keyword identification engines, followed by the adaptation of the toolchain over time as new genAI tools are introduced, evaluated, and outperform the performance of the previous leader board champion.
 
@@ -28,6 +29,7 @@ This will include:
 
 The figure below depicts a simplification in which the output process is an AI-enabled toolchain.
 
-![1712990140746](image/DesignChallengeAbstract/1712990140746.png)
+
+<img width="536" alt="Fig2" src="https://github.com/ebasham/FOSSi-AI-Keyword-Challenge/assets/32109775/edf9e15f-cec6-49c3-a62c-b66e8f96f876">
 
 Figures from: https://www.microsoft.com/en-us/research/publication/microsoft-new-future-of-work- report-2023/
